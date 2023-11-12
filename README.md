@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/drshahizan/AI-Innovation/blob/main/portfolio/yusuf23004/profile.jpg" width="524px" height="324px">
+  <img src="https://github.com/drshahizan/AI-Innovation/blob/main/portfolio/yusuf23004/profile2.jpg" width="524px" height="324px">
 </p>
 
 <h1 align="center">Hi 👋, I'm Yusuf Kurniawan</h1>
