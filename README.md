@@ -1,9 +1,22 @@
+<p align="center">
+  <img src="profile.jpg" width="524px" height="324px">
+</p>
+
 <h1 align="center">Hi 👋, I'm Yusuf Kurniawan</h1>
-<h3 align="center">I am a civil servant working as a Job Placement Officer in the Cirebon City Labor Office</h3>
+<h3 align="center">I am a civil servant at the Department of Manpower in the city of Cirebont</h3>
+<br>
 
-- 🔭 I’m currently working at Labor Office Cirebon City **Job Flacement Officer**
+- 🏢 I’m currently working at Labor Office Cirebon City as **Job placement Officer**
 
-- 📫 How to reach me **yusuf23004@mail.unpad.ac.id**
+- 🔭 The task of a job placement is to match **job seekers** with available **job vacancies**
+
+- 🌱 I'm postgraduate student at **Padjajaran University in Bandung**
+
+- 💬 Ask me about **Job Vacancies in Cirebon and Surrounding Areas**
+  
+- 📫 How to reach me **yusuf021454556@@gmail.com**
+  
+- 👀 Looking for small data science project to improve and update my knowledge.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
